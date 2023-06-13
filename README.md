@@ -11,8 +11,6 @@ File list:
 
 'GDP_data.csv': Downloaded GDP data for the technical part; 
 
-'IAF_intern_writing_part_QianDong.docx': Writing part;
-
 I did not upload data for Technical Q1: 'beeps_vi_es_csv.csv' for its size. However please find the download link here https://www.beeps-ebrd.com/wp-content/uploads/2022/01/beeps_vi_es_csv.zip
 
 
